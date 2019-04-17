@@ -1,0 +1,382 @@
+/* UberTable Formatting*/
+html, body {
+    width: 100%;
+
+}
+
+.home-header {
+  text-align: center;
+  color: #ed86A7;
+  background-color: white;
+  padding: 30px;
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+
+.home-gallery .ui.grid{
+  margin-top: 30px;
+  justify-content: center;
+}
+
+
+.home-gallery .ui.card{
+  margin: 20px;
+}
+
+.home-gallery .ui.card:first-child {
+  margin-top: 20px;
+}
+
+.home-gallery .ui.card:last-child {
+  margin-bottom: 20px;
+}
+
+.tab-list {
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+  margin-top: 0px;
+}
+
+.tab-list:hover {
+  cursor: pointer;
+}
+
+.tab-container {
+  margin-top: 0px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  position: absolute;
+}
+
+.table-container {
+  width: 90%;
+  height: 90%;
+  margin-bottom: 100px;
+}
+
+table {
+  width: 100%;
+  font-family: 'Raleway';
+  empty-cells: show;
+  margin-bottom: 50px;
+}
+
+.table-style {
+  border-collapse: collapse;
+/*  empty-cells: show;
+*/  
+  padding: 30px;
+  margin-top:20px;
+  box-sizing: border-box;
+}
+
+th, td {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+tr {
+  height: 30px;
+}
+
+.empty-cell {
+  font-size: 0;
+}
+
+input:focus {
+    outline-width: 0;
+}
+/*tr:nth-child(even) {background-color: #f2f2f2;}
+*/
+/* DONT ADD A SPACE */
+/*tr:hover {  
+  background-color: #f5f5f5;
+}*/
+
+.form input{
+  width: 200px;
+  border: none;
+  opacity: 1;
+}
+
+.placeholder {
+  color: red;
+  opacity: 0.2 !important;
+}
+
+.button-close{
+  width: 33px;
+}
+
+.close {
+  width: 32px;
+  opacity: 0.3;
+  outline: none;
+  border: 0px;
+}
+
+.close:hover {
+  opacity: 1;
+}
+
+.add-calculate {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  margin-top: -20px;
+}
+
+.button-add, .button-calc, .button-reload {
+  height: 30px;
+  width: 100px;
+  margin: 1px;
+  font-family: 'Raleway';
+  font-size: 12px;
+  padding: 5px;
+  background-color: white;
+  color: black;
+  border: 0.5px solid LightGray; 
+}
+
+.button-calc {
+  margin-left: 20px;
+}
+
+.button-reload {
+  margin-left: 20px;
+}
+
+.button-add:hover {
+  background-color: LightGray; /* Green */
+  color: black;
+}
+
+.button-calc:hover {
+  background-color: LightGray; /* Green */
+  color: black;
+}
+
+.button-reload:hover {
+  background-color: LightGray; /* Green */
+  color: black;
+}
+
+.sky-scanner {
+  width: 50%;
+  margin: 50px;
+}
+/* End of UberTable Formatting*/
+
+.tab-list {
+  border-bottom: 1px solid #ccc;
+  padding-left: 0;
+}
+
+
+.tab-list-item {
+  display: inline-block;
+  list-style: none;
+  margin-bottom: -1px;
+  padding: 0.5rem 0.75rem;
+
+  color: #ed86A7;
+}
+
+.tab-list-active {
+  background-color: white;
+  border: solid #ccc;
+  border-width: 1px 1px 0 1px;
+}
+
+
+.image-gallery {
+/*  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;*/
+}
+
+.transit-container {
+/*  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;*/
+}
+
+.bag-policy img{
+  width: 500px;
+  display: flex;
+  justify-content: center;
+}
+
+.style-star {
+  color: gold;
+}
+
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.yelp-container .ui.basic.red.button a{
+  color: #d32323 !important;
+}
+
+.yelp-container .ui.basic.red.button:hover{
+  text-decoration: none;
+  background-color: #d32323 !important;
+  color: white !important;
+
+}
+
+.yelp-container .ui.basic.red.button:hover a{
+  background-color: #d32323 !important;
+  color: white !important;
+}
+
+
+.ui.basic.label {
+  border: none;
+  font-weight: 500;
+}
+
+.ui.basic.label:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.yelp-button a{
+    text-decoration: none;
+     color: inherit;
+}
+
+.direction .ui.basic.label{
+  color: #4183c4;
+}
+
+.direction .ui.basic.label:hover{
+  color: #4183c4;
+  text-decoration: underline;
+}
+
+.ui.segment {
+  width: 100%;
+
+}
+
+.location .ui.basic.label{
+  color: #4183c4;
+  opacity: 1;
+  font-size: 14px;
+}
+
+.location .ui.basic.label:hover{
+  color: #4183c4;
+  text-decoration: underline;
+}
+
+.location .ui.label a{
+  opacity: 1;
+}
+
+.korean-places .ui.label a{
+  opacity: 1;
+  color: #4183c4;
+  font-size: 14px;
+}
+
+.price {
+  font-size: 14px;
+}
+
+.description .ui.basic.label:hover{
+  text-decoration: none;
+}
+
+. react-photo-gallery--gallery img{
+    width: 45px !important;
+    height: 45px !important;
+}
+
+div.tourist-polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.tourist-item-container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  opacity: 0;
+  transition: .5s ease;
+  background-color: white;
+}
+
+.tourist-container:hover .overlay {
+  opacity: 0.9;
+}
+
+.text {
+  color: black;
+  font-size: calc(11px + 0.1vw);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.text .tourist-title {
+  font-size: calc(11px + 0.3vw);
+  padding-bottom: 5px;
+}
+ 
+.text .tourist-address {
+  padding-top: 5px;
+  ffont-size: calc(11px + 0.09vw);
+}
+
+/* Not working */
+.calc-button .ui input{
+   justify-content: center;
+   text-align: center;
+
+}
+
+/* Calculate.js*/
+.form-container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.calc-description .ui.segment{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.calc-uber-description {
+/*  margin-top: 30px;
+*/}
+
+.ui.divider.calc-divider{
+  color: #ed86A7;
+  font-weight: 400;
+  font-size: 15px;
+  margin: 30px;
+}
+
+
+
+
