@@ -1,6 +1,6 @@
 {
   "homepage": "http://liubyi.github.io/bts-concert-guide-v2",
-  "name": "sidebar-test",
+  "name": "BTS_Concert_Guide",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
