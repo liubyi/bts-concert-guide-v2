@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bts-concert-guide-v2/precache-manifest.0c6ccd326163380cd1f333149437ce58.js"
+  "/bts-concert-guide-v2/precache-manifest.bad2fa73e5bb8c447c1c113efb6ccae4.js"
 );
 
 workbox.clientsClaim();
