@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from "react-dom";
-import {Grid, Card, Button, Header, Icon, Modal, Segment, Image } from 'semantic-ui-react'
+import {List, Grid, Card, Button, Header, Icon, Modal, Segment, Image } from 'semantic-ui-react'
 
 let summaries = [
 {
@@ -37,12 +37,13 @@ let summaries = [
   src: 'images/donuts.jpg',
   name: 'Freebies',
   description: "Can't afford merch or don't want to wait in line? Many ARMYs will be handing out handmade merchandise or food (like these BT21 donuts)! Most of them will be updating their locations on social media, so don't miss out on these goodies."
-},
-{
-  src: 'images/fanchant.jpg',
-  name: 'Misc',
-  description: "Learn more about BTS Studio, fanchants, concert outfit ideas, lining up for merchandise, and staying safe."
 }
+// ,
+// {
+//   src: 'images/fanchant.jpg',
+//   name: 'Misc',
+//   description: "Learn more about BTS Studio, fanchants, concert outfit ideas, lining up for merchandise, and staying safe."
+// }
 ];
 
 const Home = () => {
@@ -66,6 +67,30 @@ const Home = () => {
 
         <div className="home-gallery">
         <Grid doubling columns={4}>
+            <Card >
+              <Image src='images/sy.jpg' />
+              <Card.Content>
+                <Card.Header textAlign='center'>Event Schedule</Card.Header>
+                <Card.Description>
+                    <List.Item>Parking Lots Open: 1:00 PM</List.Item>
+                      <List.Item>
+                        Fan Fest (BTS Studio, merchandise) Opens: 1:00 PM
+                      </List.Item>
+                      <List.Item>Box Office/Will Call Opens: 3:00 PM</List.Item>
+                      <List.Item>
+                        Parsons Shuttle: starts running at 3:30 PM
+                      </List.Item>
+                      <List.Item>
+                        Gates Open: 5:00 PM (recommended arrive time: before 4pm)
+                      </List.Item>
+                      <List.Item>Concert start at ~ 7:30 PM</List.Item>
+                      <List.Item>Concert will end at ~ 10:30 PM</List.Item>
+                </Card.Description>
+              </Card.Content>
+              <Card.Content extra>
+                  <List.Item><a href="https://www.rosebowlstadium.com/events/detail/bts-world-tour-love-yourself-speak-yourself" target="_blank">Read the Rose Bowl FAQs here</a>.</List.Item>
+              </Card.Content>
+            </Card>
             {cards}
         </Grid>
         </div>

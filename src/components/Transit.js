@@ -8,6 +8,38 @@ const Transit = () => (
   	<div className='transit-container'>
 
   	<Segment vertical>
+    	<Header as='h4'><a target="_blank" href="https://www.rosebowlstadium.com/events/detail/bts-world-tour-love-yourself-speak-yourself">Event Schedule</a></Header>
+    	<List bulleted>
+    	<List.Item>Camping is not permitted before or after the event anywhere on the Rose Bowl Stadium property or surrounding Arroyo and guests may not access the site until parking lots open at 1:00 PM.</List.Item>
+    	<List.Item>Parking Lots Open: 1:00 PM</List.Item>
+	    <List.Item>
+	      Fan Fest Opens: 1:00 PM
+	      <List.List>
+	        <List.Item>Fan Fest is a pre-event located directly in front of the Rose Bowl on Area H (in front of Gate B) and has the official BTS Studio, merchandise, food booths, and some interactive opportunities.</List.Item>
+	      </List.List>
+	    </List.Item>
+	    <List.Item>Box Office/Will Call Opens: 3:00 PM</List.Item>
+	    <List.Item>
+	      Parsons Shuttle: 3:30 PM
+	      <List.List>
+	        <List.Item>Catch the shuttle at the Parsons Engineering Building located in Old Town Pasadena.</List.Item>
+	        <List.Item>The shuttle begins at 3:30 PM and runs up to an hour after the event concludes.</List.Item>
+	        <List.Item>A pre-purchase shuttle ticket is $5.00 round-trip; however, a round-trip shuttle ticket will be $10.00 on event day.</List.Item>
+	        <List.Item>Buy pre-purchase shuttle ticket <a href="https://www.rosebowlstadium.com/visitor-center/parking-information-1" target="_blank"> here</a>.</List.Item>
+	      </List.List>
+	    </List.Item>
+	    <List.Item>
+	      Gates Open: 5:00 PM
+	      <List.List>
+	        <List.Item>It is recommended for patrons to arrive at the Stadium no later than 4:00 PM.</List.Item>
+	      </List.List>
+	    </List.Item>
+	    <List.Item>Concert start at 7:30 PM</List.Item>
+	    <List.Item>Concert will end at approximately 10:30 PM</List.Item>
+	  </List>
+    </Segment>
+
+  	<Segment vertical>
   		<Header as='h4'>Uber/Lyft vs Rental Car</Header>
   		<List bulleted>
     	<List.Item>If you're staying at a hotel nearby and don't plan to travel very much, Uber or Lyft may be the cheapest option.</List.Item>
@@ -32,7 +64,7 @@ const Transit = () => (
 	    	<List.List>
 		        <List.Item>Traffic is terrible so give yourself at least two hours to drive across LA to Pasadena.</List.Item>
 		        <List.Item>Parking at Rose Bowl is expensive and takes a long time to exit. It's better to park at a parking garage
-              in Pasadena (~$20-30 for Parsons) and take the shuttle to the bowl.</List.Item>
+              in Pasadena (~$20-30 for Parsons) and take the shuttle (starting at 3:30 PM) to the bowl.</List.Item>
               	<List.Item> I've heard someone say to go EARLY, bring a picnic (order food to go in Pasadena) with disposable utensils 
               (you can’t take many things through security), have a picnic on one of the grassy areas outside the bowl. Then toss everything, go inside see the show. Afterward, 
               walk out of the bowl until car traffic looks ok and call an Uber/Lyft (the shuttle line might take a while but it's cheaper).</List.Item>
@@ -81,7 +113,7 @@ const Transit = () => (
 	    </List.Item>
 	    <List.Item>From this area a round trip shuttle service is available to the Rose Bowl Stadium’s Lot B.</List.Item>
 	    <List.Item>
-	    	Shuttle service to the stadium begins three (3) hours prior to the start of the event or kick-off. 
+	    	Shuttle service to the stadium begins at 3:30 PM. 
 	    	If you're planning to arrive earlier to stand in line for merch, you may have to walk or Uber/Lyft.
 	    </List.Item>
 	    <List.Item>The shuttle will be $5 round-trip for a pre-purchased ticket and $10 round-trip on event day for all other events.</List.Item>

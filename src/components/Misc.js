@@ -51,6 +51,9 @@ const outfits = outfit_array.map(outfit_array => {
 		    		For more information, examples of BTS Studio pictures, and link to the survey (if the one above isn't working), see the original Facebook <a target="_blank" href="https://www.facebook.com/groups/852207088215931/permalink/1659151854188113/">
 		    		post.</a>
 		    	</List.Item>
+		    	<List.Item>
+		    		Edit: The survey is over, but you can still join the lottery on the day of the concert. Wait for offical announcement from BigHit.
+		    	</List.Item>
 			  </List>
      	</Segment>
 
@@ -75,7 +78,17 @@ const outfits = outfit_array.map(outfit_array => {
      		<Header as='h4'>Merchandise</Header>
 		    	<List bulleted>
 		    	<List.Item>
-		    		Read an ARMY's lining up for merch experience <a href="https://www.facebook.com/groups/852207088215931/permalink/1612796658823633/" target="_blank"> here.</a>
+		    		Update from Rose Bowl: Fan Fest (BTS Studio, merch, food booths) open at 1pm (See the FAQs <a href="https://www.rosebowlstadium.com/events/detail/bts-world-tour-love-yourself-speak-yourself" target="_blank"> here</a>).
+		    	</List.Item>
+		    	<List.Item>
+		    		Camping is not allowed before or after the event anywhere on the Rose Bowl Stadium property or surrounding Arroyo and guests may not access the site until parking lots open at 1:00 PM.
+		    	</List.Item>
+		    	<List.Item>
+		    		However, there are conflicting opinions about whether people won't be allowed to camp on the streets or not: see this <a href="https://www.facebook.com/groups/852207088215931/permalink/1672532459516719/" target="_blank"> Facebook post</a>.
+		    	</List.Item>
+		    	<List.Item>
+		    		Read an ARMY's lining up for merch experience <a href="https://www.facebook.com/groups/852207088215931/permalink/1612796658823633/" target="_blank"> here. </a> 
+		    		If you do decide to camp anyway ... 
 			      <List.List>
 			        <List.Item>Be safe! There might be suspicious people around. Stay with your friends or other ARMYs, don't walk off with strangers, have emergency information ready (hospital, police station numbers), and check in with someone periodically (call/text a family member/friend hourly), etc.</List.Item>
 			        <List.Item>LA is cold at night. Dress warmly and bring a blanket or a folding chair.</List.Item>
@@ -85,7 +98,9 @@ const outfits = outfit_array.map(outfit_array => {
 			        <List.Item>Figure out where the restrooms are! If you're lining up at midnight most places will be closed. Use the buddy system and don't go to the restrooms alone when it's still dark.</List.Item>
 			        <List.Item>Go with friends or make friends so they will hold your spot while you use the restrooms.</List.Item>
 			        <List.Item>Someone said to take pictures of the line occasionally so you can prove to security if a group cuts the line.</List.Item>
-			        <List.Item>You should be done buying merch around 10am, and the concert doesn't start until 7:30pm, so you have time to go back to the hotel to unload your merch, eat/drink/nap to refresh yourself.</List.Item>
+			        <List.Item>If you're done buying merch hours before the concert, consider going back to the hotel to unload your merch, eat/drink/nap to refresh yourself.</List.Item>
+			      	<List.Item>
+			      	</List.Item>
 			      </List.List>
 			    </List.Item>
 		    	<List.Item>
@@ -102,9 +117,6 @@ const outfits = outfit_array.map(outfit_array => {
 			    </List.Item>
 			    <List.Item>
 			      If you just want an ARMY bomb there is usually an express line and they usually don't run out.
-			    </List.Item>
-			    <List.Item>
-			      There might be reporters there in the morning so bring a mask if you want to hide your face lol.
 			    </List.Item>
 			  </List>
      	</Segment>
@@ -132,6 +144,12 @@ const outfits = outfit_array.map(outfit_array => {
 		    	</List.Item>
 		    	<List.Item>
 		    		Regular pins are $4.90, enamel pins are $8.90, keychains are $13.95
+		    	</List.Item>
+		    	<List.Item>
+		    		Update: Some people have asked Rose Bowl about pins, and have gotten conflicted replies. I would just print out a list of prohibited items, 
+		    		and if Rose Bowl says that pins aren't allowed inside just show them the list 
+		    		(and make sure the pins aren't obscuring the inside of the bag, which is probably why some people have gotten replies that said the pins should be on the straps). 
+		    		Hopefully there will be an official announcement. 
 		    	</List.Item>
 			  </List>
 			  <Card.Group itemsPerRow={8}>

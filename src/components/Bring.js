@@ -93,6 +93,7 @@ class Bring extends React.Component {
             <h5 class="ui header">Some Prohibited Items <a href="https://www.rosebowlstadium.com/visitor-center/code-of-conduct">(Full List)</a>:</h5>
             <div class="ui list">
                   <div class="item">Banners, signs, flags, poles or sticks</div>
+                  <div class="item"><a target="_blank" href="https://www.rosebowlstadium.com/events/detail/bts-world-tour-love-yourself-speak-yourself">Update: </a> Handheld banners/flags less than 18” x 24” in size will be permitted in. However, banners/flags may not be mounted to a pole or a stick.</div>
                   <div class="item">Beverage containers larger than 17 oz.</div>
                   <div class="item">Boxes or wrapped packages; Glass, metal or hard plastic containers</div>
                   <div class="item">Outside Food (only for non-UCLA games)</div>
@@ -102,6 +103,8 @@ class Bring extends React.Component {
                   <div class="item">Unauthorized cameras with lenses longer than 3.5 inches, interchangeable or telephoto lenses</div>
                   <div class="item">Unauthorized video cameras, monopods, tripods or selfie sticks</div>
                   <div class="item">Handheld fans that are not sold by official merchandise are <a target="_blank" href="https://twitter.com/arcadiantae/status/1114257077419954176">not allowed</a></div>
+                  <div class="item"><a target="_blank" href="https://www.rosebowlstadium.com/events/detail/bts-world-tour-love-yourself-speak-yourself">Update: </a> fans with attachable water bottles, batteries, or motorized in any way will not be allowed to enter the venue.</div>
+                  <div class="item"><a target="_blank" href="https://www.rosebowlstadium.com/events/detail/bts-world-tour-love-yourself-speak-yourself">Update: </a> Plush doll keychains will not be allowed to enter the Rose Bowl Stadium.</div>
             </div>
           </Segment>
         </div>

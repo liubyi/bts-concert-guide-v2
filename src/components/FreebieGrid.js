@@ -35,6 +35,12 @@ const photos = [
   link:'https://www.facebook.com/groups/852207088215931/permalink/1629739683795997/',
   description: "Lily Ung: Hi all! I'm planning to make a handful of BT21 donut holes to pass out at the concert. Date tbd. Please let me know if you're interested so I can get an estimate! These are the same donuts that BTS themselves have eaten so you can say you had the same donuts 😉 ❗️I'll post the handout date and specific location on instagram @fantasticdonuts❗️"},
 
+
+  { src: 'images/free44.jpg', width: 1, height: 1, 
+  social: 'IG: @dopeseok_nation',
+  link: 'https://www.facebook.com/groups/852207088215931/permalink/1671249599645005/',
+  description: "Prudence Bree: I’m going to be giving away these BT21 face chocolates on (5/5) first come first serve because I don’t want them to melt so I can’t hold any. They are really good."},
+
   { src: 'images/free26.jpg', width: 1, height: 1, 
   social: 'Twitter: @bearlysafe, IG: @accompannie',
   link: 'https://www.facebook.com/photo.php?fbid=10157607562199893&set=pcb.1645342735569025&type=3&theater&ifg=1',
@@ -44,6 +50,16 @@ const photos = [
   social: 'IG: @katsandovaal',
   link: 'https://www.facebook.com/groups/852207088215931/permalink/1648815561888409/',
   description: "Katherine Sandoval: I’m so excited for May that I got started on my freebies early! My sister and I will be handing out these photo prints and lomo cards at the concert 🥰 over +450 prints so far!"},
+
+  { src: 'images/free43.jpg', width: 1, height: 1, 
+  social: 'FB: Ariana Valadez',
+  link: 'https://www.facebook.com/groups/852207088215931/permalink/1672356836200948/',
+  description: "Ariana Valadez: I'll be passing these out in goody bags with Mexican candy in honor of cinco de mayo! At both concert dates."},
+
+    { src: 'images/free45.jpg', width: 1, height: 1, 
+  social: 'Twitter: @bbytanot7, IG: @the_bookjunkie',
+  link: 'https://www.facebook.com/groups/852207088215931/permalink/1671451322958166/',
+  description: "Denise Gonzalez: INVITE MEMBERS Enter name or email address... note 9,952 Members MEMBERS DESCRIPTION DESCRIPTION This is a group for people who're going to the BTS WORLD TOUR ‘L... See More GROUP TYPE GROUP TYPE Social Learning LOCATION LOCATION Los Angeles, California A SPACE FOR JUST THE PEOPLE YOU WANT Groups are great for getting things done and staying in touch with just the people you want. Create a Group RECENT GROUP PHOTOSSee All Trinh Hoang's photo. Trinh Hoang's photo. Trinh Hoang's photo. Suggested Groups See All Portia Dawson's photo. Making Changes 110 members Join English (US) · Español · Português (Brasil) · Français (France) · Deutsch Privacy · Terms · Advertising · Ad Choices · Cookies · More Facebook © 2019 Get started on units 6 Units · 52 PostsSee units News Feed Denise Gonzalez 15 hrs Doing my first freebie/trade goodie bags for the Rose Bowl Concert. Only doing 115 goodie bags, One photocard per bag. Bag A, Jin, Namjoon & Jimin Bag B, Yoongi, JHope, Taehyung & Jungkook Still figuring out which day I'll be handing them out. But If Intrested Follow me in twt: @bbytanot7 or Ig: @the_bookjunkie for more updates."},
 
 { src: 'images/free33.jpg', width: 1, height: 1, 
   social: 'IG: @pcosmes',

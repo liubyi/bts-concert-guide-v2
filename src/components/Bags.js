@@ -78,7 +78,7 @@ class Bags extends React.Component {
             all events at the Rose Bowl Stadium.
             </List.Item>
             <List.Item>
-              Large purses and bags must be returned to the vehicle or checked in for $10 at a check-in tent.
+              Large purses and bags must be returned to the vehicle or checked in for $10 at a check-in tent. If the bags are checked in, you cannot access them until after the concert (since the tents are outside the gates).
             </List.Item>
             <List.Item>
               Below are bags that have been approved by the Rose Bowl Stadium. Click on the image to get the link to the website.
@@ -98,8 +98,7 @@ class Bags extends React.Component {
               If you are unsure if your bag is allowed in the stadium, contact Rose Bowl <a target="_blank" href="https://www.rosebowlstadium.com/visitor-center/contact">here</a>.
             </List.Item>
             <List.Item>
-              You may be able to bring one clear bag and one clutch according to older rules <a target="_blank" href="https://www.usacamps.com/wp-content/uploads/2018/08/Rose-Bowl-Security-FAQ.pdf?fbclid=IwAR3rjlxC5lXJjUxEdUTjZduoEOmjrDcO97beTFsKmS7epcVUytl4nKofpCQ">here</a>. 
-              But it's best to contact them to double check since the rules may be different for concerts. 
+              You may be able to bring one clear bag and one clutch according to the rules <a target="_blank" href="https://www.rosebowlstadium.com/events/detail/bts-world-tour-love-yourself-speak-yourself">here</a>. 
             </List.Item>
             <List.Item>
               Recommendation: Although the small bags are cute, I recommend getting one of the larger bags that can actually hold a light jacket, bottles of water, and a pair of flip flops. 
