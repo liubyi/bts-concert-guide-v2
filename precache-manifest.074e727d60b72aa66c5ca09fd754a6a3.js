@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d23e9a9c12186871e912",
+    "revision": "6b3b13c193769f28687e",
     "url": "/bts-concert-guide-v2/static/css/main.40effbd2.chunk.css"
   },
   {
-    "revision": "d23e9a9c12186871e912",
-    "url": "/bts-concert-guide-v2/static/js/main.a611e81a.chunk.js"
+    "revision": "6b3b13c193769f28687e",
+    "url": "/bts-concert-guide-v2/static/js/main.0d8ef813.chunk.js"
   },
   {
     "revision": "e9dfd1862d0fd305d447",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/bts-concert-guide-v2/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "f160901dfbfaa7cea34248461a73240f",
+    "revision": "f546617ecc73d7f9622fc9e46d60b621",
     "url": "/bts-concert-guide-v2/index.html"
   }
 ];
